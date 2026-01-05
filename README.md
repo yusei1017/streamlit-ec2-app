@@ -1,3 +1,4 @@
+ssh -i Practice_key.pem ec2-user@13.211.254.140
 EC2側
 cd ~/app
 git pull
